@@ -1,0 +1,125 @@
+{
+  "activateSkinCapeForUserVersion": false,
+  "skipHashsumValidation": false,
+  "additionalFiles": [
+    {
+      "sha1": "031a68bebf55d824f66d6573d8c752f0e1bf232a",
+      "size": 11779287,
+      "path": "libraries/net/minecraft/client/1.21.11/client-1.21.11-mappings.txt",
+      "url": "http://res.tlauncher.org/unb/libraries/cache/net/minecraft/client/1.21.11/client-1.21.11-mappings.txt"
+    },
+    {
+      "sha1": "0c0b4baf475dac5db6c1b392b34a947069df583d",
+      "size": 33569833,
+      "path": "libraries/net/neoforged/minecraft-client-patched/21.11.48/minecraft-client-patched-21.11.48.jar",
+      "url": "http://res.tlauncher.org/unb/libraries/cache/net/neoforged/minecraft-client-patched/21.11.48/minecraft-client-patched-21.11.48.jar"
+    },
+    {
+      "sha1": "5b2d33285ab5d1554e9798ad98c40d6ea3868bd5",
+      "size": 30340,
+      "path": "libraries/net/neoforged/bus/8.0.5/bus-8.0.5.jar",
+      "url": "http://res.tlauncher.org/unb/libraries/cache/net/neoforged/bus/8.0.5/bus-8.0.5.jar"
+    },
+    {
+      "sha1": "6f03d0ac17102c33cb7384e42a2e22eda2a3ad8c",
+      "size": 15648,
+      "path": "libraries/net/neoforged/JarJarMetadata/0.5.0/JarJarMetadata-0.5.0.jar",
+      "url": "http://res.tlauncher.org/unb/libraries/cache/net/neoforged/JarJarMetadata/0.5.0/JarJarMetadata-0.5.0.jar"
+    },
+    {
+      "sha1": "17b145cf3a1816153d067316eeee9dc89bfd9bb2",
+      "size": 770782,
+      "path": "libraries/net/neoforged/installertools/installertools/4.0.6/installertools-4.0.6-fatjar.jar",
+      "url": "http://res.tlauncher.org/unb/libraries/cache/net/neoforged/installertools/installertools/4.0.6/installertools-4.0.6-fatjar.jar"
+    },
+    {
+      "sha1": "0f72ab4d3e755fe736829883d90430a281527aca",
+      "size": 660602,
+      "path": "libraries/net/neoforged/fancymodloader/loader/10.0.36/loader-10.0.36.jar",
+      "url": "http://res.tlauncher.org/unb/libraries/cache/net/neoforged/fancymodloader/loader/10.0.36/loader-10.0.36.jar"
+    },
+    {
+      "sha1": "dbd0e11d545443f602addede111c39d9639708f9",
+      "size": 360483,
+      "path": "libraries/net/neoforged/fancymodloader/earlydisplay/10.0.36/earlydisplay-10.0.36.jar",
+      "url": "http://res.tlauncher.org/unb/libraries/cache/net/neoforged/fancymodloader/earlydisplay/10.0.36/earlydisplay-10.0.36.jar"
+    },
+    {
+      "sha1": "64e4956b8dcdd6537eba96590f12fa1f3ba2f831",
+      "size": 17083,
+      "path": "libraries/net/neoforged/JarJarSelector/0.5.0/JarJarSelector-0.5.0.jar",
+      "url": "http://res.tlauncher.org/unb/libraries/cache/net/neoforged/JarJarSelector/0.5.0/JarJarSelector-0.5.0.jar"
+    },
+    {
+      "sha1": "52fe1949be64e3303aabaaa21e315f551db9c9f4",
+      "size": 2550,
+      "path": "libraries/net/neoforged/mergetool/2.0.0/mergetool-2.0.0-api.jar",
+      "url": "http://res.tlauncher.org/unb/libraries/cache/net/neoforged/mergetool/2.0.0/mergetool-2.0.0-api.jar"
+    },
+    {
+      "sha1": "d781f508b150f03bd379da48fb9ce0c1c227e87d",
+      "size": 557177,
+      "path": "libraries/net/neoforged/neoform/1.21.11-20251209.172050/neoform-1.21.11-20251209.172050-mappings.tsrg.lzma",
+      "url": "http://res.tlauncher.org/unb/libraries/cache/net/neoforged/neoform/1.21.11-20251209.172050/neoform-1.21.11-20251209.172050-mappings.tsrg.lzma"
+    },
+    {
+      "sha1": "8097c6382d38648441484f58e1e95f9ac838ac18",
+      "size": 3833335,
+      "path": "libraries/net/neoforged/neoforge/21.11.48/neoforge-21.11.48-universal.jar",
+      "url": "http://res.tlauncher.org/unb/libraries/cache/net/neoforged/neoforge/21.11.48/neoforge-21.11.48-universal.jar"
+    },
+    {
+      "sha1": "64aae57d6d26d69543c5275181fe6971707a4e16",
+      "size": 19331,
+      "path": "libraries/net/neoforged/accesstransformers/at-parser/11.0.2/at-parser-11.0.2.jar",
+      "url": "http://res.tlauncher.org/unb/libraries/cache/net/neoforged/accesstransformers/at-parser/11.0.2/at-parser-11.0.2.jar"
+    },
+    {
+      "sha1": "25dcb69c78b16669935f0ab91dff830ce192379d",
+      "size": 20292,
+      "path": "libraries/net/neoforged/accesstransformers/11.0.2/accesstransformers-11.0.2.jar",
+      "url": "http://res.tlauncher.org/unb/libraries/cache/net/neoforged/accesstransformers/11.0.2/accesstransformers-11.0.2.jar"
+    }
+  ],
+  "tlauncherVersion": 0,
+  "modpack": {
+    "modpackMemory": false,
+    "memory": 0,
+    "id": -35517937339000,
+    "name": "JameMods",
+    "favorite": false,
+    "version": {
+      "mods": [],
+      "resourcePacks": [],
+      "maps": [],
+      "shaderpacks": [],
+      "gameVersionDTO": {
+        "id": 66,
+        "name": "1.21.11"
+      },
+      "minecraftVersionName": {
+        "id": 2089,
+        "name": "21.11.48"
+      },
+      "id": -35517937348801,
+      "name": "1.0",
+      "available": false,
+      "remove": false,
+      "minecraftVersionTypes": [
+        {
+          "id": 5,
+          "name": "neoForge"
+        }
+      ]
+    },
+    "userInstall": false,
+    "populateStatus": false,
+    "available": false,
+    "parser": false,
+    "notExists": false,
+    "totalComments": 0
+  },
+  "source": "local_version_repo",
+  "jar": "1.21.11",
+  "skinVersion": false
+}
